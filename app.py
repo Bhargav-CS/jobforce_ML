@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 from gemini_process import extract_details_with_gemini
 
-app = Flask(__name__, static_folder='frontend/pdf-parser/dist', static_url_path='')
+app = Flask(__name__, static_folder='build', static_url_path='')
 CORS(app)  # Enable CORS for all routes
 nlp = spacy.load("en_core_web_sm")
 
