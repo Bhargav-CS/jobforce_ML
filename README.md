@@ -63,7 +63,7 @@ jobforce_ML is a web application designed to extract and process data from PDF f
 
 ## Deployment
 
-- **Link**: [jobforce_ML](https://jobforce-ml.onrender.com/)
+- **Link**: [jobforce_ML](https://jobforce-ml.onrender.com/) Sine it is a free instance it might take some time to load. Please bear with it 😅
 
 ---
 
