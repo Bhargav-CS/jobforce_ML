@@ -1,7 +1,0 @@
-Flask
-Flask-Cors
-spacy
-pdfplumber
-requests
-google-generativeai
-gunicorn

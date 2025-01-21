@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: job-force-ML
-    env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: bash -c "python -m spacy download en_core_web_sm && gunicorn your_app:app"
-    
